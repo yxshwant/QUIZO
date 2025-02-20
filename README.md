@@ -33,3 +33,10 @@ Built with **React (ShadCN UI) + Node.js (Express) + MySQL**, featuring **dark m
 - **cors & body-parser**
 
 ---
+
+![alt text](https://github.com/yxshwant/QUIZO/blob/main/images/Screenshot%202025-02-20%20125345.png)
+![alt text](https://github.com/yxshwant/QUIZO/blob/main/images/Screenshot%202025-02-20%20125350.png)
+![alt text](https://github.com/yxshwant/QUIZO/blob/main/images/Screenshot%202025-02-20%20125359.png)
+![alt text](https://github.com/yxshwant/QUIZO/blob/main/images/Screenshot%202025-02-20%20125405.png)
+![alt text](https://github.com/yxshwant/QUIZO/blob/main/images/Screenshot%202025-02-20%20125419.png)
+![alt text](https://github.com/yxshwant/QUIZO/blob/main/images/Screenshot%202025-02-20%20125425.png)
